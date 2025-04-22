@@ -1,0 +1,26 @@
+.pets {
+    font-style: italic;
+    font-weight: bold;
+  }
+
+.color {
+    background: orange;
+    padding: 10px;
+  }
+  .lab {
+    border: 0px ridge black;
+    background-color: white;
+    width: 300px
+    padding:50px;
+    margin:20px
+  }
+
+  .lab img {
+    width: 25%;
+    align-content: center;
+  }
+
+  .lab p {
+    font: small-caps bold 1.5rem sans-serif;
+    text-align: left;
+  }
